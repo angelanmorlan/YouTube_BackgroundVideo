@@ -21,7 +21,7 @@
     // defaults
     var defaults = {
         ratio: 16/9, // usually either 4/3 or 16/9 -- tweak as needed
-        videoId: 'x6DC1rAnZIg', my new video
+        videoId: 'x6DC1rAnZIg', //my new video
         mute: true,
         repeat: true,
         width: $(window).width(),
